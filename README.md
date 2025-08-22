@@ -1,18 +1,29 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # React + TypeScript + Vite
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> b3900d0 (Readme updated)
 # 🌟 ConceptCrafter: Interactive Learning Module
 >>>>>>> 3b1a44d (Assignment Completed)
 
+<<<<<<< HEAD
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+=======
+Welcome to **ConceptCrafter**, an interactive educational module designed to simplify Class 10 science and math concepts using simulations, animations, and engaging visuals. This project is part of an assignment by QuazarEdu to reimagine how students learn through immersive digital experiences.
+>>>>>>> b3900d0 (Readme updated)
 
 Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
+<<<<<<< HEAD
 ## Expanding the ESLint configuration
+=======
+ConceptCrafter is a React-based web application that teaches the topic **[Your Chosen Topic Here: e.g., Atomic Structure]** through:
+>>>>>>> b3900d0 (Readme updated)
 
 If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
 
@@ -44,7 +55,15 @@ export default tseslint.config([
 ])
 ```
 
+<<<<<<< HEAD
 You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+=======
+- **Frontend**: React, Tailwind CSS  
+- **Animations**: Framer Motion / Lottie / CSS transitions  
+- **State Management**: React Context / Redux (if needed)  
+- **Deployment**: Vercel / Netlify  
+- **Optional Tools**: AI coding assistants (e.g., Lovable), Canva for visuals
+>>>>>>> b3900d0 (Readme updated)
 
 ```js
 // eslint.config.js
@@ -88,10 +107,12 @@ Inside the `/docs` folder, you'll find:
 ```bash
 # Clone the repo
 
+
 # Install dependencies
 npm install
 
 # Start the development server
+<<<<<<< HEAD
 npm run dev
 =======
 # React + TypeScript + Vite
@@ -168,3 +189,6 @@ export default tseslint.config([
 =======
 >>>>>>> 980aa04 (Project Completed)
 >>>>>>> 3b1a44d (Assignment Completed)
+=======
+npm run dev
+>>>>>>> b3900d0 (Readme updated)

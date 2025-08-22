@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import  { useState, useEffect } from 'react';
 import { Atom, BookOpen, Award, ChevronRight, Play, RotateCcw, Check } from 'lucide-react';
 import AtomicModel from './Components/AtomicModel';
 import PeriodicTable from './Components/PeriodicTable';
@@ -130,7 +130,7 @@ function App() {
 
 // Introduction Section Component
 const IntroSection = ({ onComplete }: { onComplete: () => void }) => {
-  const [hasStarted, setHasStarted] = useState(false);
+  const [, setHasStarted] = useState(false);
 
   return (
     <div className="max-w-4xl mx-auto">
